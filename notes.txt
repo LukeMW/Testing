@@ -1,1 +1,3 @@
-Adding some text to the text file
+Changing the text
+And adding more text
+A little more
