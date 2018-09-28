@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="testing again" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1538177758.37" ts_lastsave="1538177761.64" unique_id="1">
+		<rich_text>more tests</rich_text>
+	</node>
+</cherrytree>
