@@ -1,0 +1,25 @@
+NOTES ORG FILE
+
+* Contacts
+
+| Name  |   Number |
+|-------+----------|
+| Mick  |  5645456 |
+| Linda |    57567 |
+| Reg   |   756757 |
+| Lee   |  5646456 |
+| Wendy | 67466456 |
+| Scott | 56746465 |
+
+
+* Todo List
+This is a test todo list
+
+** Films
+*** TODO hthrth
+*** TODO hrth
+*** TODO grgeg
+** Books
+** Anime
+** Work
+** Personal
