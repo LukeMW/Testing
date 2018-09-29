@@ -1,4 +1,5 @@
 NOTES ORG FILE
+Testing org mode in Emacs
 
 * Contacts
 
@@ -13,7 +14,7 @@ NOTES ORG FILE
 
 
 * Todo List
-This is a test todo list
+This is a test todo list 
 
 ** Films
 *** TODO hthrth
