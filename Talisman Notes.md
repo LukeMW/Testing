@@ -21,6 +21,3 @@
 - Every expansion on except Firelands, Dragon and Harbinger
 - The One Talisman Ending
 - I won because both AI players died
-
-
-
