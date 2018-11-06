@@ -1,6 +1,6 @@
 # Talisman Notes 
 
-## Game 1
+## Game 1 (05/11/18)
 - Lasted 2 hours
 - Played as the Barbarian
 - Every expansion on except Firelands, Dragon and Harbinger
@@ -8,7 +8,7 @@
 - I got to the crown of command and won
 - Won without losing a health or using a fate, both are achievements
 
-## Game 2
+## Game 2 (06/11/18)
 - Lasted an hour and a half
 - Played as the --- Scion
 - Every expansion on except Firelands, Dragon and Harbinger
