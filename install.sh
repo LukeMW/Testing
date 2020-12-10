@@ -4,7 +4,7 @@
 
 cd ~
 sudo apt update -qq
-sudo apt install -yy gdebi flameshot stacer steam htop notepadqq ghostwriter gparted bleachbit
+sudo apt install -yy gdebi flameshot stacer steam htop notepadqq ghostwriter gparted bleachbit xclip
 
 # Installing Google Chrome and Github Desktop
 cd /home/luke/Downloads
@@ -19,9 +19,14 @@ cd ~
 # Installing Joplin
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/dev/Joplin_install_and_update.sh | bash
 
-# Installing Planner (flatpak, no prompt)
+# Installing Planner and Handbrake (flatpak, no prompt)
 flatpak install -y planner
+flatpak install -y app/fr.handbrake.ghb/x86_64/stable
+
 
 # Adding a repository
 sudo add-apt-repository ppa:libreoffice/libreoffice-7-0
 sudo apt update -qq
+
+# Intalling Micro text editor
+curl https://getmic.ro | bash
