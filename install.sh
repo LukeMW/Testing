@@ -4,7 +4,7 @@
 
 cd ~
 sudo apt update -qq
-sudo apt install -yy gdebi flameshot stacer steam htop notepadqq ghostwriter gparted bleachbit xclip
+sudo apt install -yy gdebi flameshot stacer steam htop notepadqq ghostwriter gparted bleachbit xclip copyq
 
 # Installing Google Chrome and Github Desktop
 cd /home/luke/Downloads
@@ -19,9 +19,10 @@ cd ~
 # Installing Joplin
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/dev/Joplin_install_and_update.sh | bash
 
-# Installing Planner and Handbrake (flatpak, no prompt)
+# Installing flatpaks
 flatpak install -y planner
 flatpak install -y app/fr.handbrake.ghb/x86_64/stable
+flatpak install -y qbittorrent
 
 
 # Adding a repository
